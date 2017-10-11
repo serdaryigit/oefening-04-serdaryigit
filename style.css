@@ -1,0 +1,28 @@
+/* Stylesheet
+///////////Patronen
+ */
+ 
+#border{
+    border: 1px solid grey;
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+}
+.circle{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	margin: 1px;
+    display: inline-block;
+}
+.color-green{
+    background-color: #00FF00;
+}
+
+.color-red{
+	background-color: #FF0000;
+}
+
+.color-blue {
+    background-color: #0000FF;
+}
